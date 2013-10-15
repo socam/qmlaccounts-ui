@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Accounts-ui
+Icon=icons-Applications-accounts
+Exec=invoker -s --type=d /usr/bin/qmlaccounts-ui -fullscreen
+Comment=Nemo Accounts-ui Application
+

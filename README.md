@@ -1,2 +1,0 @@
-qmlaccounts-ui
-==============
